@@ -9,9 +9,9 @@ Current state of the project
 ----------------------------
 Stable. It only add 3 headers on every responses :
 
-Cache-Control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
-Pragma: no-cache
-Expires: 2 years before current date
+    Cache-Control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
+    Pragma: no-cache
+    Expires: 2 years before current date
 
 
 Installation
