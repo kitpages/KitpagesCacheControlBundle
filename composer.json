@@ -1,0 +1,21 @@
+{
+    "name": "kitpages/cache-control-bundle",
+    "description": "Remove browser cache on every pages of a symfony2 website.",
+    "keywords": ["Remove browser cache"],
+    "homepage": "http://github.com/kitpages/KitpagesCacheControlBundle",
+    "type": "symfony-bundle",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Philippe Le Van",
+            "homepage": "https://twitter.com/#!/plv"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "Kitpages\\CacheControlBundle": "" }
+    },
+    "target-dir": "Kitpages/CacheControlBundle"
+}
