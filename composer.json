@@ -16,6 +16,5 @@
     },
     "autoload": {
         "psr-0": { "Kitpages\\CacheControlBundle": "" }
-    },
-    "target-dir": "Kitpages/CacheControlBundle"
+    }
 }
